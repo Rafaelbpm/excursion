@@ -12,15 +12,15 @@ body {
   color: white;
 }
 
-.header-secondary{
-    font-weight: 300;
-    font-size: 42px;
-    color: white;
+.header-secondary {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
 }
 
-.header--sub--header{
-    font-size: 21px;
-    color: gray;
+.header--sub--header {
+  font-size: 21px;
+  color: gray;
 }
 
 /* lINKS */
@@ -28,4 +28,12 @@ body {
 .link--cta {
   font-size: 16px;
   color: aquamarine;
+}
+
+/* FOOTER */
+
+.footer--copyright {
+  font-size: 21px;
+  text-align: right;
+  color: grey;
 }
